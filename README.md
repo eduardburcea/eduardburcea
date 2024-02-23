@@ -7,7 +7,7 @@ I have completed the Google IT support by Google on Coursera, and I am building 
 ### Networking Projects:
 
 - <b>Campus Network Simulation</b>
-  - [Documentation](https://github.com/eduardburcea/Packet_Tracer_Labs/blob/2e631cfd4f930973f5283724b2c479832e0782ae/README.md)
+  - [Documentation](https://github.com/eduardburcea/campus_network_01/blob/848c0b616d18dc785d132a6d0f69eeec7aac8e0f/README.md)
   - Lab
 
 <a href="https://linkedin.com/in/eduardburcea/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
